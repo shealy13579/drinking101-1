@@ -36,7 +36,7 @@
       </div>
       <div id="content">
         <!-- insert the page content here -->
-		 <font size="6"color="red">BEER PONG</font>
+		 <font size="7"color="red">BEER PONG</font>
 		 <p><p>
 		 <b>Rules<b><p>
 <?php
